@@ -1,0 +1,17 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Dependencies (none today, but in case tooling is added later)
+node_modules/
+
+# Vercel
+.vercel
+
+# Logs / env
+*.log
+.env
+.env.local
