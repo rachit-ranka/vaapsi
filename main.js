@@ -7,7 +7,7 @@
    See README.md → "Setting up the Google Sheet backend".
    It looks like: https://script.google.com/macros/s/XXXX.../exec
    ----------------------------------------------------------- */
-const WAITLIST_ENDPOINT = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+const WAITLIST_ENDPOINT = "https://script.google.com/macros/s/AKfycbzuF1SqGpsDk6VYVYTkINyU-gYo390wRpq1obudTmqTKVsSWHtksDvuEtTrr9B-xBKd5Q/exec";
 
 /* --- Sticky nav background on scroll --- */
 const nav = document.getElementById('nav');
